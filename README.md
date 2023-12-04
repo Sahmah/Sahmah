@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sarah
+##👋 Olá! Eu sou a Sarah!
   
 - 👀 Estou interessada em ganhar experiência e desenvolver minhas habilidades de programação 
 - 🌱 Atualmente, estou cursando ciência da computação 
