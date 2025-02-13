@@ -1,3 +1,4 @@
+
 name: generate animation
 
 on:
@@ -17,6 +18,8 @@ on:
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
