@@ -16,7 +16,7 @@ Desenvolvedora Backend, cursando ciencias da computação na Universidade São J
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahmah&show_icons=true&theme=neon&hide=contribs"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahmah&layout=compact&theme=neon"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahmah&layout=donut&theme=neon"/>
 </div>
 
 <div>
