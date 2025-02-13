@@ -1,4 +1,4 @@
-## Desenvolvedora Backend, cursando ciencias da computação na Universidade São Judas Tadeu. Habilidades em HTML, CSS, JavaScript, React, Python e Typescript. Sempre disposta a aprender e solucionar novos desafios. 
+## Oi! Meu nome é Sarah!
 
 <!--
 **Sahmah/Sahmah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+Desenvolvedora Backend, cursando ciencias da computação na Universidade São Judas Tadeu. Habilidades em HTML, CSS, JavaScript, React, Python e Typescript. Sempre disposta a aprender e solucionar novos desafios. 
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahmah&show_icons=true&theme=neon&hide=contribs"/>
