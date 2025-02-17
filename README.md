@@ -36,3 +36,5 @@ Desenvolvedora Backend, cursando ciencias da computação na Universidade São J
     <a href="mailto:saramarialima43@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/sarah-lima-965816261/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
+![snake gif](https://github.com/Sahmah/Sahmah/blob/output/github-snake-dark.svg)
