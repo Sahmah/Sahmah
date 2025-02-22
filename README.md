@@ -19,16 +19,6 @@ Desenvolvedora Backend, cursando ciencias da computação na Universidade São J
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=7C2CBB&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Sarah" alt="Typing SVG" /></a>
 </div> 
 
-</div> 
-<br>
-<details open>
-    <p align="center"> Estudante de ciencia da computação <img src="./Image/cat-coder.gif" width="30px"> de São Paulo</p>
-    <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
-<br>
-</details>
-<details open>
-
-<div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahmah&show_icons=true&theme=neon&hide=contribs"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahmah&layout=compact&theme=neon"/>
 </div>
