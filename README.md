@@ -22,7 +22,6 @@ Desenvolvedora Backend, cursando ciencias da computação na Universidade São J
 </div> 
 <br>
 <details open>
-    <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
     <p align="center"> Estudante de ciencia da computação <img src="./Image/cat-coder.gif" width="30px"> de São Paulo</p>
     <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
 <br>
