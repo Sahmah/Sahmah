@@ -14,6 +14,23 @@
 -->
 Desenvolvedora Backend, cursando ciencias da computação na Universidade São Judas Tadeu. Habilidades em HTML, CSS, JavaScript, React, Python e Typescript. Sempre disposta a aprender e solucionar novos desafios. 
 
+</div> 
+<br>
+<details open>
+    <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
+    <p align="center"> I'm a computer science student! <img src="./Image/cat-coder.gif" width="30px"> from Nizhny Novgorod.</p>
+    <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
+    <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
+    <ul>
+        <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a college student, studying to be a programmer.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;  I actively participate in IT events.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in sports.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br>
+    </ul>
+<br>
+</details>
+<details open>
+
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahmah&show_icons=true&theme=neon&hide=contribs"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahmah&layout=compact&theme=neon"/>
