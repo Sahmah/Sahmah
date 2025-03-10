@@ -43,3 +43,6 @@ Desenvolvedora Backend, cursando ciencias da computação na Universidade São J
 </div>
 
 ![snake gif](https://github.com/Sahmah/Sahmah/blob/output/github-snake-dark.svg)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b51837&height=80&section=footer"/>
