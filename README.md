@@ -1,35 +1,35 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b51837&height=120&section=header&text=Sarah%20Lima&fontColor=ffffff&fontSize=38&fontAlignY=38"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C2CBB&center=true&vCenter=true&width=560&lines=Oi!+Meu+nome+%C3%A9+Sarah+%F0%9F%91%8B;Backend+%2B+Intelig%C3%AAncia+Artificial;Vis%C3%A3o+computacional+e+agentes+com+LLM" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C2CBB&center=true&vCenter=true&width=560&lines=Hi!+I'm+Sarah+%F0%9F%91%8B;Backend+%2B+Artificial+Intelligence;Computer+vision+and+LLM+agents" alt="Typing SVG" /></a>
 </div>
 
-## Sobre mim
+## About me
 
-Desenvolvedora backend com foco em inteligência artificial: visão computacional e agentes com LLM.
-Cursando Ciência da Computação na Universidade São Judas Tadeu. Sempre disposta a aprender e a
-resolver novos desafios.
+Backend developer focused on artificial intelligence: computer vision and LLM agents.
+Computer Science student at Universidade São Judas Tadeu. Always eager to learn and to take on
+new challenges.
 
-- 🔭 Projeto atual: [**Sentinel Agent**](https://github.com/Sahmah/sentinel-agent), um detector de visão computacional + agente com LLM que combinam as confianças para decidir quando alertar
-- 🌱 Estudando: calibração de confiança, agentes com LangGraph e MCP
-- 📫 Fale comigo: [LinkedIn](https://www.linkedin.com/in/sarah-lima-965816261/) ou [e-mail](mailto:saramarialima43@gmail.com)
+- 🔭 Currently building: [**Sentinel Agent**](https://github.com/Sahmah/sentinel-agent), a computer vision detector and an LLM agent that combine their confidence to decide when to raise an alert
+- 🌱 Learning: confidence calibration, LangGraph agents and MCP
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sarah-lima-965816261/) or [email](mailto:saramarialima43@gmail.com)
 
-## Projeto em destaque
+## Featured project
 
 ### [Sentinel Agent](https://github.com/Sahmah/sentinel-agent)
 
-Uma câmera (webcam ou vídeo) passa pelo **YOLO**, os eventos são analisados por um **agente com LLM**
-(que também enxerga o recorte da imagem), e as duas confianças são **calibradas e combinadas**.
-Quando a visão e o agente discordam, a decisão vai para um humano. Tem dashboard em Svelte com
-eventos ao vivo, servidor MCP para perguntar ao Claude "o que aconteceu hoje?", LLM local grátis
-(Ollama) na GPU, Terraform para a AWS e CI/CD no GitHub Actions.
+A camera (webcam or video) goes through **YOLO**, each event is analysed by an **LLM agent** (which
+also sees a crop of the image), and the two confidence scores are **calibrated and fused**. When
+vision and the agent disagree, a person decides. It comes with a live Svelte dashboard, an MCP
+server to ask Claude "what happened today?", a free local LLM (Ollama) on the GPU, Terraform for
+AWS, and CI/CD on GitHub Actions.
 
 <p align="center">
-  <a href="https://github.com/Sahmah/sentinel-agent"><img src="https://raw.githubusercontent.com/Sahmah/sentinel-agent/main/docs/images/dashboard.png" alt="Dashboard do Sentinel Agent" width="49%"></a>
-  <a href="https://github.com/Sahmah/sentinel-agent"><img src="https://raw.githubusercontent.com/Sahmah/sentinel-agent/main/docs/images/event-detail.png" alt="Detalhe de um evento no Sentinel Agent" width="49%"></a>
+  <a href="https://github.com/Sahmah/sentinel-agent"><img src="https://raw.githubusercontent.com/Sahmah/sentinel-agent/main/docs/images/dashboard.png" alt="Sentinel Agent dashboard" width="49%"></a>
+  <a href="https://github.com/Sahmah/sentinel-agent"><img src="https://raw.githubusercontent.com/Sahmah/sentinel-agent/main/docs/images/event-detail.png" alt="Sentinel Agent event detail" width="49%"></a>
 </p>
 
-## Tecnologias
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,react,svelte,html,css&perline=7" alt="Python, TypeScript, JavaScript, React, Svelte, HTML, CSS" />
@@ -38,14 +38,14 @@ eventos ao vivo, servidor MCP para perguntar ao Claude "o que aconteceu hoje?", 
   <img src="https://skillicons.dev/icons?i=opencv,pytorch,aws,terraform,githubactions,git,linux,sqlite,mongodb,vscode&perline=10" alt="OpenCV, PyTorch, AWS, Terraform, GitHub Actions, Git, Linux, SQLite, MongoDB, VS Code" />
 </p>
 
-## Estatísticas
+## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/Sahmah/Sahmah/main/profile-summary-card-output/radical/3-stats.svg" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://raw.githubusercontent.com/Sahmah/Sahmah/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Linguagens com mais commits" />
+  <img height="165" src="https://raw.githubusercontent.com/Sahmah/Sahmah/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" />
+  <img height="165" src="https://raw.githubusercontent.com/Sahmah/Sahmah/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most committed languages" />
 </p>
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Sahmah&theme=radical&hide_border=true&background=0D1117&ring=B51837&fire=B51837&currStreakLabel=7C2CBB" alt="Sequência de contribuições" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Sahmah&theme=radical&hide_border=true&background=0D1117&ring=B51837&fire=B51837&currStreakLabel=7C2CBB" alt="Contribution streak" />
 </p>
 
 <div align="center">
